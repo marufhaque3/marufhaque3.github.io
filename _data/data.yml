@@ -43,7 +43,7 @@ career-profile:
       Currently I am working as a Security and Privacy Researcher in North Carolina State University. 
       I have also worked as a Teaching Assistant for multiple undergrad courses. Before joining NC State University, I
       worked as a Software Engineer for 5 years at Kona Software Lab Ltd. located in Dhaka, Bangladesh. 
-      There I was involved in developing digital wallet service and dynamic library for smart-card. My responsibilites included desiging
+      There I was involved in developing digital wallet service and dynamic library (.dll, .so) for smart-card solution. My responsibilites included desiging
       the architecture of the system, selecting the tech tools based on requirements, developing the application and deployment.
 
 
@@ -52,62 +52,50 @@ education:
       university: North Carolina State University
       time: 2018 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        As a grad student my main focus was to have a basic understanding of Cybersecurity and privacy of various systems. 
+        So along with core courses I have enrolled in various security track courses. Following are some mentionable courses
+        that has benefited me significantly. 
 
-          - Bullet point
-          - Bullet point 
+          - Computer and Network Security
+          - Compilers
+          - Software Engineering
+          - Software Security
+          - Privacy
+          - Artifical Intelligence
+          - Cellular Network Security
 
     - degree: B.Sc in Computer Science and Engineering
       university: University of Dhaka
       time: 2008 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        During my undergrad years, I have learned the basic fundamentals of computer science. Courses like Operating Syatem, 
+        Computer Networks, Algorithms have helped me to understand the inter-relation in the world of computing. 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Research Assistant
+      time: 2019 - Present
+      company: North Carolina State University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As a research assistant I have worked on multiple projects. My concentration of research works are in the field of security and privacy.
+        While working as a reseacher, I have worked on the following projects
+          - Privacy analysis of mobile web browsers
+          - Tracker scrutiny in IoT companion apps
+          - Analyzing efficacy of GitHub's vulnerability notification 
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Teaching Assistant
+      time: 2018 - 2020
+      company: North Carolina State University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        My main responsibilites as a teaching assistand was grading assignments, projects, exams, 
+        resolving students confusion in Piazza, conducting labs and most importantly guiding students when they faced difficulties.
+        Following are the courses I worked as teaching assistant.
+          - Computer Security
+          - Software Engineering
+          - Data Structure
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Engineer
+      time: 2013 - 2018
+      company: Kona Software Lab Ltd, Dhaka, Bangladesh
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
