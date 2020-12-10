@@ -26,7 +26,16 @@ sidebar:
         
       - idiom: Bangla
         level: Native
-        
+    
+    courses:
+      - Computer and Network Security
+      - Compilers
+      - Software Engineering
+      - Software Security
+      - Privacy
+      - Artifical Intelligence
+      - Cellular Network Security
+      
     interests:
       - item: Travelling
         link:
