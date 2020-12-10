@@ -17,9 +17,6 @@ sidebar:
     website:  #do not add http://
     linkedin: marufhaque    
     github: marufhaque3
-    gitlab:
-    bitbucket:
-    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -43,6 +40,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      Currently I am working as a Security and Privacy Researcher in North Carolina State University. 
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
