@@ -35,7 +35,7 @@ sidebar:
       - Privacy
       - Artifical Intelligence
       - Cellular Network Security
-      
+
     interests:
       - item: Travelling
         link:
@@ -52,9 +52,8 @@ career-profile:
     summary: |
       Currently I am working as a Security and Privacy Researcher in North Carolina State University. 
       I have also worked as a Teaching Assistant for multiple undergrad courses. Before joining NC State University, I
-      worked as a Software Engineer for 5 years at Kona Software Lab Ltd. located in Dhaka, Bangladesh. 
-      There I was involved in developing digital wallet service and dynamic library for smart-card solution. My responsibilites included desiging
-      the architecture of the system, selecting the tech tools based on requirements, developing the application and deployment.
+      worked as a Software Engineer at Kona Software Lab Ltd. located in Dhaka, Bangladesh. 
+      There I was involved in developing digital wallet service and dynamic library for smart-card solution. 
 
 
 education:
@@ -63,16 +62,7 @@ education:
       time: 2018 - 2021
       details: |
         As a grad student my main focus was to have a basic understanding of cybersecurity and privacy. 
-        So along with core courses I have enrolled in various security track courses. Following are some mentionable courses
-        that has benefited me significantly. 
-
-          - Computer and Network Security
-          - Compilers
-          - Software Engineering
-          - Software Security
-          - Privacy
-          - Artifical Intelligence
-          - Cellular Network Security
+        So along with core courses I have enrolled in various security track courses. 
 
     - degree: B.Sc in Computer Science and Engineering
       university: University of Dhaka
@@ -86,11 +76,9 @@ experiences:
       time: 2019 - Present
       company: North Carolina State University
       details: |
-        As a research assistant I have worked on multiple projects. My concentration of research works are in the field of security and privacy.
-        While working as a reseacher, I have worked on the following projects
-          - Privacy analysis of mobile web browsers
-          - Tracker scrutiny in IoT companion apps
-          - Analyzing efficacy of GitHub's vulnerability notification 
+        As a research assistant I have worked on multiple projects that are in the field of security and privacy.
+        
+         
 
     - role: Teaching Assistant
       time: 2018 - 2020
@@ -107,14 +95,8 @@ experiences:
       time: 2013 - 2018
       company: Kona Software Lab Ltd, Dhaka, Bangladesh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          My responsibilites as a software engineer included desiging the architecture of the system, 
+          selecting the tech tools based on requirements, developing the application and deployment.
 
 projects:
     title: Projects
@@ -127,6 +109,9 @@ projects:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tasks: 
+          - did x
+          - did y
 
       - title: DevStudio
         link: "#"
