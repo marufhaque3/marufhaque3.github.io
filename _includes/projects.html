@@ -28,7 +28,9 @@
       {% endif %}
 
       {% for task in project.tasks %}
-      - <span class="project-tasks">{{ task}}</span>
+      <div class="tasks">
+        {{ task | markdownify }}
+      </div>
       {% endfor %}
 
     </div><!--//item-->

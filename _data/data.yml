@@ -36,6 +36,11 @@ sidebar:
       - Artifical Intelligence
       - Cellular Network Security
 
+    tacourses:
+      - Computer Security
+      - Software Engineering
+      - Data Structure
+
     interests:
       - item: Travelling
         link:
@@ -68,8 +73,8 @@ education:
       university: University of Dhaka
       time: 2008 - 2013
       details: |
-        During my undergrad years, I have learned the basic fundamentals of computer science. Courses like Operating Syatem, 
-        Computer Networks, Algorithms have helped me to understand the concepts of the world of computing to some extent. 
+        During my undergrad years, I have learned the basic fundamentals of computer science though courses like Operating Syatem, 
+        Computer Networks, Algorithms etc. 
 
 experiences:
     - role: Research Assistant
@@ -87,9 +92,7 @@ experiences:
         My main responsibilites as a teaching assistand was grading assignments, projects, exams, 
         resolving students confusion in Piazza, conducting labs and most importantly guiding students when they faced difficulties.
         Following are the courses I worked as teaching assistant.
-          - Computer Security
-          - Software Engineering
-          - Data Structure
+          
 
     - role: Software Engineer
       time: 2013 - 2018
@@ -101,13 +104,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Following are the list of noteable projects that I have worked as Software Engineer in industry, as Research Assistant and as course projects. 
 
     assignments:
       - title: Velocity
         link: "#hook"
+        place: Kona Software Lab Ltd.
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
         tasks: 
           - did x
