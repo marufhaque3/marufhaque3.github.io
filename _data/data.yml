@@ -106,8 +106,9 @@ projects:
       time: 2020 - Present
       company: North Carolina State University
       details: |
-        Differential comparative analysis of mobile web browsers (Chrome, Firefox, Brave, Ghostery and Firefox Focus) in terms of privacy. Developed filter parser tool for EasyList, EasyPrivacy, Disconnect and WhoTracksMe using NodeJS and Python. 
-        Measured the differences and effectiveness of privacy-focused browsers (Brave, Ghostery, Firefox-Focus)
+        Differential comparative analysis of mobile web browsers (Chrome, Firefox, Brave, Ghostery and Firefox Focus) in terms of privacy. 
+        - Developed filter parser tool for EasyList, EasyPrivacy, Disconnect and WhoTracksMe using NodeJS and Python. 
+        - Measured the differences and effectiveness of privacy-focused browsers (Brave, Ghostery, Firefox-Focus)
          
 
     - name: Git-Notified
