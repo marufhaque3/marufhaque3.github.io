@@ -1,4 +1,4 @@
-# Orbit
+<!-- # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
@@ -51,4 +51,4 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
 ## License
 
-This project is licensed under the [MIT license](LICENSE.txt).
+This project is licensed under the [MIT license](LICENSE.txt). -->
