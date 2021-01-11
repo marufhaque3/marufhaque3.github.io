@@ -116,8 +116,8 @@ projects:
       company: North Carolina State University
       details: |
         Analyzing the efficacy of GitHub's vulnerability notification. Responsible for collecting advisory data from GitHub using GitHub GraphQL API with python. 
-        Collected commit metadata from Google BigQuery using SQL and commit history of corresponding dependency files in open-source licensed public repositories. 
-        Analyzed collected data to determine the impact of vulnerability notification from GitHub and the effect of contributing factors like repo popularity, developer experience, severity of vulnerability etc
+        - Collected commit metadata from Google BigQuery using SQL and commit history of corresponding dependency files in open-source licensed public repositories. 
+        - Analyzed collected data to determine the impact of vulnerability notification from GitHub and the effect of contributing factors like repo popularity, developer experience, severity of vulnerability etc
           
 
     - name: Kona Card
@@ -125,25 +125,26 @@ projects:
       company: Kona Software Lab Ltd, Dhaka, Bangladesh
       details: |
         Kona Card is a prepaid service built around Kona PayPaas, a mobile payment platform which offers the users to make payment using both HCE SE (Secure Element) and CardSE. 
-        Designed the system of the application following micro-service architecture. Contributed as a core developer of the server components and implemented a proxy-server ensuring dynamic-routing and security. 
-        Participated in product deployment and performance improvement of the system.
+        - Designed the system of the application following micro-service architecture. 
+        - Contributed as a core developer of the server components and implemented a proxy-server ensuring dynamic-routing and security. 
+        - Participated in product deployment and performance improvement of the system.
 
     - name: Kona PayPaas
       time: 2015- 2016
       company: Kona Software Lab Ltd, Dhaka, Bangladesh
       details: |
         Kona PayPaas is a payment service platform featuring Tokenization}} and Chip on Cloud Server. 
-        Collaborated in the development of server components like Card Digitization Platform, Mobile Application Gateway using Spring Framework and Oracle DB. 
-        Worked on developing user-interface for admin panel with AngularJS
+        - Collaborated in the development of server components like Card Digitization Platform, Mobile Application Gateway using Spring Framework and Oracle DB. 
+        - Worked on developing user-interface for admin panel with AngularJS
 
     - name: PKI-Middleware
       time: 2013 - 2015
       company: Kona Software Lab Ltd, Dhaka, Bangladesh
       details: |
         PKI-Middlewar is a PKCS11 dynamic library developed for Windows, Linux, MacOS and Android platform which complies KISA and FIPS standard. 
-        Designed the structure of the project after a thorough understanding of the PKCS11 and PKCS15 specifications. 
-        Developed the core functionality of PKCS11 with multi-threading support and developed a platform for smart-card communication using C/C++. 
-        Built JNI wrapper for communication between Android app and PKI-Middleware
+        - Designed the structure of the project after a thorough understanding of the PKCS11 and PKCS15 specifications. 
+        - Developed the core functionality of PKCS11 with multi-threading support and developed a platform for smart-card communication using C/C++. 
+        - Built JNI wrapper for communication between Android app and PKI-Middleware
 
 
 skills:
